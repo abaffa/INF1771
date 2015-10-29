@@ -1,0 +1,3 @@
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_Accord_CSharp_SVM_Example\IA_SVM_Example\bin\Debug\IA_DecisionTree_Example.exe.config
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_Accord_CSharp_SVM_Example\IA_SVM_Example\obj\Debug\IA_DecisionTree_Example.exe
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_Accord_CSharp_SVM_Example\IA_SVM_Example\obj\Debug\IA_DecisionTree_Example.pdb

@@ -1,0 +1,16 @@
+Alternativa, Bar, SextaSabado, Faminto, Pessoas, Preco, Chovendo, Reserva, Tipo, Estimativa
+Espera 
+string, string, string, string, string, string, string, string, string, string, string
+Alternativa, Bar, SextaSabado, Faminto, Pessoas, Preco, Chovendo, Reserva, Tipo, Estimativa, Espera
+Sim, Não, Não, Sim, Algumas,  $$$, Não, Sim, Frances, 0-10, Sim
+Sim, Não, Não, Sim, Cheio, $, Não, Não, Tailandes, 30-60, Não
+Não, Sim, Não, Não, Algumas, $, Não, Não, Hamburguer, 0-10, Sim
+Sim, Não, Sim, Sim, Cheio, $, Sim, Não, Tailandes, 10-30, Sim
+Sim, Não, Sim, Não, Cheio, $$$, Não, Sim, Frances, >60, Não
+Não, Sim, Não, Sim, Algumas, $$, Sim, Sim, Italiano, 0-10, Sim
+Não, Sim, Não, Não, Nenhuma, $, Sim, Não, Hamburguer, 0-10, Não
+Não, Não, Não, Sim, Algumas, $$, Sim, Sim, Tailandes, 0-10, Sim
+Não, Sim, Sim, Não, Cheio, $, Sim, Não, Hamburguer, >60, Não
+Sim, Sim, Sim, Sim, Cheio, $$$, Não, Sim, Italiano, 10-30, Não
+Não, Não, Não, Não, Nenhuma, $, Não, Não, Tailandes, 0-10, Não
+Sim, Sim, Sim, Sim, Cheio, $, Não, Não, Hamburguer, 30-60, Sim

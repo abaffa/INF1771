@@ -1,0 +1,7 @@
+c:\users\augusto baffa\documents\visual studio 2013\Projects\IA_PrologExample\IA_PrologExample\bin\Debug\IA_PrologExample.exe.config
+c:\users\augusto baffa\documents\visual studio 2013\Projects\IA_PrologExample\IA_PrologExample\bin\Debug\IA_PrologExample.exe
+c:\users\augusto baffa\documents\visual studio 2013\Projects\IA_PrologExample\IA_PrologExample\bin\Debug\IA_PrologExample.pdb
+c:\users\augusto baffa\documents\visual studio 2013\Projects\IA_PrologExample\IA_PrologExample\obj\Debug\IA_PrologExample.csprojResolveAssemblyReference.cache
+c:\users\augusto baffa\documents\visual studio 2013\Projects\IA_PrologExample\IA_PrologExample\obj\Debug\IA_PrologExample.exe
+c:\users\augusto baffa\documents\visual studio 2013\Projects\IA_PrologExample\IA_PrologExample\obj\Debug\IA_PrologExample.pdb
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_PrologExample\IA_PrologExample\bin\Debug\SwiPlCs.dll
