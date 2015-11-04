@@ -1,0 +1,7 @@
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_CSharp_Prolog\IA_CSharp_Prolog\bin\Debug\IA_CSharp_Prolog.exe.config
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_CSharp_Prolog\IA_CSharp_Prolog\bin\Debug\IA_CSharp_Prolog.exe
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_CSharp_Prolog\IA_CSharp_Prolog\bin\Debug\IA_CSharp_Prolog.pdb
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_CSharp_Prolog\IA_CSharp_Prolog\bin\Debug\SwiPlCs.dll
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_CSharp_Prolog\IA_CSharp_Prolog\obj\Debug\IA_CSharp_Prolog.csprojResolveAssemblyReference.cache
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_CSharp_Prolog\IA_CSharp_Prolog\obj\Debug\IA_CSharp_Prolog.exe
+C:\Users\Augusto Baffa\Documents\Visual Studio 2013\Projects\IA_CSharp_Prolog\IA_CSharp_Prolog\obj\Debug\IA_CSharp_Prolog.pdb
