@@ -1,6 +1,8 @@
-import jpl.*;
+//import jpl.*;
+import org.jpl7.*;
 import java.lang.System;
-import java.util.Hashtable;
+//import java.util.Hashtable;
+import java.util.Map;
 
 public class Prolog 
 {
@@ -9,7 +11,8 @@ public class Prolog
     Query q1 = new Query("consult", new Term[] {new Atom("teste.pl")});
     System.out.println("consult " + (q1.hasSolution() ? "succeeded" : "failed"));
 	 Query q2 = new Query("ancestral(X, jose)");
-	 Hashtable[] solution = q2.allSolutions();		
+//	 Hashtable[] solution = q2.allSolutions();		
+	 Map<String, Term>[] solution = q2.allSolutions();		
 	 if (solution != null) 
 	 {	
 	   for (int i = 0; i < solution.length; i++)
