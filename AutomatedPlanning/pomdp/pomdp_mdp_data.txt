@@ -1,0 +1,1785 @@
+s(b0_tigre_dir).
+s(b0_tigre_esq).
+s(b10_tigre_dir).
+s(b10_tigre_esq).
+s(b11_tigre_dir).
+s(b11_tigre_esq).
+s(b12_tigre_dir).
+s(b12_tigre_esq).
+s(b13_tigre_dir).
+s(b13_tigre_esq).
+s(b14_tigre_dir).
+s(b14_tigre_esq).
+s(b15_tigre_dir).
+s(b15_tigre_esq).
+s(b16_tigre_dir).
+s(b16_tigre_esq).
+s(b17_tigre_dir).
+s(b17_tigre_esq).
+s(b18_tigre_dir).
+s(b18_tigre_esq).
+s(b19_tigre_dir).
+s(b19_tigre_esq).
+s(b1_tigre_dir).
+s(b1_tigre_esq).
+s(b20_tigre_dir).
+s(b20_tigre_esq).
+s(b21_tigre_dir).
+s(b21_tigre_esq).
+s(b22_tigre_dir).
+s(b22_tigre_esq).
+s(b23_tigre_dir).
+s(b23_tigre_esq).
+s(b24_tigre_dir).
+s(b24_tigre_esq).
+s(b25_tigre_dir).
+s(b25_tigre_esq).
+s(b26_tigre_dir).
+s(b26_tigre_esq).
+s(b27_tigre_dir).
+s(b27_tigre_esq).
+s(b28_tigre_dir).
+s(b28_tigre_esq).
+s(b29_tigre_dir).
+s(b29_tigre_esq).
+s(b2_tigre_dir).
+s(b2_tigre_esq).
+s(b30_tigre_dir).
+s(b30_tigre_esq).
+s(b31_tigre_dir).
+s(b31_tigre_esq).
+s(b32_tigre_dir).
+s(b32_tigre_esq).
+s(b33_tigre_dir).
+s(b33_tigre_esq).
+s(b34_tigre_dir).
+s(b34_tigre_esq).
+s(b35_tigre_dir).
+s(b35_tigre_esq).
+s(b36_tigre_dir).
+s(b36_tigre_esq).
+s(b37_tigre_dir).
+s(b37_tigre_esq).
+s(b38_tigre_dir).
+s(b38_tigre_esq).
+s(b39_tigre_dir).
+s(b39_tigre_esq).
+s(b3_tigre_dir).
+s(b3_tigre_esq).
+s(b40_tigre_dir).
+s(b40_tigre_esq).
+s(b41_tigre_dir).
+s(b41_tigre_esq).
+s(b42_tigre_dir).
+s(b42_tigre_esq).
+s(b43_tigre_dir).
+s(b43_tigre_esq).
+s(b44_tigre_dir).
+s(b44_tigre_esq).
+s(b45_tigre_dir).
+s(b45_tigre_esq).
+s(b46_tigre_dir).
+s(b46_tigre_esq).
+s(b47_tigre_dir).
+s(b47_tigre_esq).
+s(b48_tigre_dir).
+s(b48_tigre_esq).
+s(b49_tigre_dir).
+s(b49_tigre_esq).
+s(b4_tigre_dir).
+s(b4_tigre_esq).
+s(b50_tigre_dir).
+s(b50_tigre_esq).
+s(b51_tigre_dir).
+s(b51_tigre_esq).
+s(b52_tigre_dir).
+s(b52_tigre_esq).
+s(b53_tigre_dir).
+s(b53_tigre_esq).
+s(b54_tigre_dir).
+s(b54_tigre_esq).
+s(b55_tigre_dir).
+s(b55_tigre_esq).
+s(b56_tigre_dir).
+s(b56_tigre_esq).
+s(b57_tigre_dir).
+s(b57_tigre_esq).
+s(b58_tigre_dir).
+s(b58_tigre_esq).
+s(b59_tigre_dir).
+s(b59_tigre_esq).
+s(b5_tigre_dir).
+s(b5_tigre_esq).
+s(b60_tigre_dir).
+s(b60_tigre_esq).
+s(b61_tigre_dir).
+s(b61_tigre_esq).
+s(b62_tigre_dir).
+s(b62_tigre_esq).
+s(b63_tigre_dir).
+s(b63_tigre_esq).
+s(b64_tigre_dir).
+s(b64_tigre_esq).
+s(b65_tigre_dir).
+s(b65_tigre_esq).
+s(b66_tigre_dir).
+s(b66_tigre_esq).
+s(b67_tigre_dir).
+s(b67_tigre_esq).
+s(b68_tigre_dir).
+s(b68_tigre_esq).
+s(b69_tigre_dir).
+s(b69_tigre_esq).
+s(b6_tigre_dir).
+s(b6_tigre_esq).
+s(b70_tigre_dir).
+s(b70_tigre_esq).
+s(b71_tigre_dir).
+s(b71_tigre_esq).
+s(b72_tigre_dir).
+s(b72_tigre_esq).
+s(b73_tigre_dir).
+s(b73_tigre_esq).
+s(b74_tigre_dir).
+s(b74_tigre_esq).
+s(b75_tigre_dir).
+s(b75_tigre_esq).
+s(b76_tigre_dir).
+s(b76_tigre_esq).
+s(b77_tigre_dir).
+s(b77_tigre_esq).
+s(b78_tigre_dir).
+s(b78_tigre_esq).
+s(b79_tigre_dir).
+s(b79_tigre_esq).
+s(b7_tigre_dir).
+s(b7_tigre_esq).
+s(b80_tigre_dir).
+s(b80_tigre_esq).
+s(b8_tigre_dir).
+s(b8_tigre_esq).
+s(b9_tigre_dir).
+s(b9_tigre_esq).
+a(abrir_dir).
+a(abrir_esq).
+a(ouvir).
+c(abrir_dir, b0_tigre_dir, 45.0).
+c(abrir_dir, b0_tigre_esq, 45.0).
+c(abrir_dir, b10_tigre_dir, 100).
+c(abrir_dir, b10_tigre_esq, 100).
+c(abrir_dir, b11_tigre_dir, 6.39).
+c(abrir_dir, b11_tigre_esq, 6.39).
+c(abrir_dir, b12_tigre_dir, 44.78).
+c(abrir_dir, b12_tigre_esq, 44.78).
+c(abrir_dir, b13_tigre_dir, 83.39).
+c(abrir_dir, b13_tigre_esq, 83.39).
+c(abrir_dir, b14_tigre_dir, -6.92).
+c(abrir_dir, b14_tigre_esq, -6.92).
+c(abrir_dir, b15_tigre_dir, 5.4).
+c(abrir_dir, b15_tigre_esq, 5.4).
+c(abrir_dir, b16_tigre_dir, 42.8).
+c(abrir_dir, b16_tigre_esq, 42.8).
+c(abrir_dir, b17_tigre_dir, 82.4).
+c(abrir_dir, b17_tigre_esq, 82.4).
+c(abrir_dir, b18_tigre_dir, 96.37).
+c(abrir_dir, b18_tigre_esq, 96.37).
+c(abrir_dir, b19_tigre_dir, 99.34).
+c(abrir_dir, b19_tigre_esq, 99.34).
+c(abrir_dir, b1_tigre_dir, 6.5).
+c(abrir_dir, b1_tigre_esq, 6.5).
+c(abrir_dir, b20_tigre_dir, -9.34).
+c(abrir_dir, b20_tigre_esq, -9.34).
+c(abrir_dir, b21_tigre_dir, -6.37).
+c(abrir_dir, b21_tigre_esq, -6.37).
+c(abrir_dir, b22_tigre_dir, 7.82).
+c(abrir_dir, b22_tigre_esq, 7.82).
+c(abrir_dir, b23_tigre_dir, 47.53).
+c(abrir_dir, b23_tigre_esq, 47.53).
+c(abrir_dir, b24_tigre_dir, 84.71).
+c(abrir_dir, b24_tigre_esq, 84.71).
+c(abrir_dir, b25_tigre_dir, 96.92).
+c(abrir_dir, b25_tigre_esq, 96.92).
+c(abrir_dir, b26_tigre_dir, 83.61).
+c(abrir_dir, b26_tigre_esq, 83.61).
+c(abrir_dir, b27_tigre_dir, 45.22).
+c(abrir_dir, b27_tigre_esq, 45.22).
+c(abrir_dir, b28_tigre_dir, 6.61).
+c(abrir_dir, b28_tigre_esq, 6.61).
+c(abrir_dir, b29_tigre_dir, 84.6).
+c(abrir_dir, b29_tigre_esq, 84.6).
+c(abrir_dir, b2_tigre_dir, -6.7).
+c(abrir_dir, b2_tigre_esq, -6.7).
+c(abrir_dir, b30_tigre_dir, 47.2).
+c(abrir_dir, b30_tigre_esq, 47.2).
+c(abrir_dir, b31_tigre_dir, 7.6).
+c(abrir_dir, b31_tigre_esq, 7.6).
+c(abrir_dir, b32_tigre_dir, 82.18).
+c(abrir_dir, b32_tigre_esq, 82.18).
+c(abrir_dir, b33_tigre_dir, 42.47).
+c(abrir_dir, b33_tigre_esq, 42.47).
+c(abrir_dir, b34_tigre_dir, 5.29).
+c(abrir_dir, b34_tigre_esq, 5.29).
+c(abrir_dir, b35_tigre_dir, 42.91).
+c(abrir_dir, b35_tigre_esq, 42.91).
+c(abrir_dir, b36_tigre_dir, 5.51).
+c(abrir_dir, b36_tigre_esq, 5.51).
+c(abrir_dir, b37_tigre_dir, 47.42).
+c(abrir_dir, b37_tigre_esq, 47.42).
+c(abrir_dir, b38_tigre_dir, 47.09).
+c(abrir_dir, b38_tigre_esq, 47.09).
+c(abrir_dir, b39_tigre_dir, 84.49).
+c(abrir_dir, b39_tigre_esq, 84.49).
+c(abrir_dir, b3_tigre_dir, -9.45).
+c(abrir_dir, b3_tigre_esq, -9.45).
+c(abrir_dir, b40_tigre_dir, 42.58).
+c(abrir_dir, b40_tigre_esq, 42.58).
+c(abrir_dir, b41_tigre_dir, 43.02).
+c(abrir_dir, b41_tigre_esq, 43.02).
+c(abrir_dir, b42_tigre_dir, 82.51).
+c(abrir_dir, b42_tigre_esq, 82.51).
+c(abrir_dir, b43_tigre_dir, 96.48).
+c(abrir_dir, b43_tigre_esq, 96.48).
+c(abrir_dir, b44_tigre_dir, 46.98).
+c(abrir_dir, b44_tigre_esq, 46.98).
+c(abrir_dir, b45_tigre_dir, 7.49).
+c(abrir_dir, b45_tigre_esq, 7.49).
+c(abrir_dir, b46_tigre_dir, -6.48).
+c(abrir_dir, b46_tigre_esq, -6.48).
+c(abrir_dir, b47_tigre_dir, 43.13).
+c(abrir_dir, b47_tigre_esq, 43.13).
+c(abrir_dir, b48_tigre_dir, 5.62).
+c(abrir_dir, b48_tigre_esq, 5.62).
+c(abrir_dir, b49_tigre_dir, 82.62).
+c(abrir_dir, b49_tigre_esq, 82.62).
+c(abrir_dir, b4_tigre_dir, -9.89).
+c(abrir_dir, b4_tigre_esq, -9.89).
+c(abrir_dir, b50_tigre_dir, 43.35).
+c(abrir_dir, b50_tigre_esq, 43.35).
+c(abrir_dir, b51_tigre_dir, 5.73).
+c(abrir_dir, b51_tigre_esq, 5.73).
+c(abrir_dir, b52_tigre_dir, -6.81).
+c(abrir_dir, b52_tigre_esq, -6.81).
+c(abrir_dir, b53_tigre_dir, 46.87).
+c(abrir_dir, b53_tigre_esq, 46.87).
+c(abrir_dir, b54_tigre_dir, 84.38).
+c(abrir_dir, b54_tigre_esq, 84.38).
+c(abrir_dir, b55_tigre_dir, 7.38).
+c(abrir_dir, b55_tigre_esq, 7.38).
+c(abrir_dir, b56_tigre_dir, 46.65).
+c(abrir_dir, b56_tigre_esq, 46.65).
+c(abrir_dir, b57_tigre_dir, 84.27).
+c(abrir_dir, b57_tigre_esq, 84.27).
+c(abrir_dir, b58_tigre_dir, 96.81).
+c(abrir_dir, b58_tigre_esq, 96.81).
+c(abrir_dir, b59_tigre_dir, 43.24).
+c(abrir_dir, b59_tigre_esq, 43.24).
+c(abrir_dir, b5_tigre_dir, -10).
+c(abrir_dir, b5_tigre_esq, -10).
+c(abrir_dir, b60_tigre_dir, 43.46).
+c(abrir_dir, b60_tigre_esq, 43.46).
+c(abrir_dir, b61_tigre_dir, 82.73).
+c(abrir_dir, b61_tigre_esq, 82.73).
+c(abrir_dir, b62_tigre_dir, 5.95).
+c(abrir_dir, b62_tigre_esq, 5.95).
+c(abrir_dir, b63_tigre_dir, 43.9).
+c(abrir_dir, b63_tigre_esq, 43.9).
+c(abrir_dir, b64_tigre_dir, 82.95).
+c(abrir_dir, b64_tigre_esq, 82.95).
+c(abrir_dir, b65_tigre_dir, 96.59).
+c(abrir_dir, b65_tigre_esq, 96.59).
+c(abrir_dir, b66_tigre_dir, 46.76).
+c(abrir_dir, b66_tigre_esq, 46.76).
+c(abrir_dir, b67_tigre_dir, 46.54).
+c(abrir_dir, b67_tigre_esq, 46.54).
+c(abrir_dir, b68_tigre_dir, 7.27).
+c(abrir_dir, b68_tigre_esq, 7.27).
+c(abrir_dir, b69_tigre_dir, 84.05).
+c(abrir_dir, b69_tigre_esq, 84.05).
+c(abrir_dir, b6_tigre_dir, 83.5).
+c(abrir_dir, b6_tigre_esq, 83.5).
+c(abrir_dir, b70_tigre_dir, 46.1).
+c(abrir_dir, b70_tigre_esq, 46.1).
+c(abrir_dir, b71_tigre_dir, 7.05).
+c(abrir_dir, b71_tigre_esq, 7.05).
+c(abrir_dir, b72_tigre_dir, -6.59).
+c(abrir_dir, b72_tigre_esq, -6.59).
+c(abrir_dir, b73_tigre_dir, 43.57).
+c(abrir_dir, b73_tigre_esq, 43.57).
+c(abrir_dir, b74_tigre_dir, 83.17).
+c(abrir_dir, b74_tigre_esq, 83.17).
+c(abrir_dir, b75_tigre_dir, 44.34).
+c(abrir_dir, b75_tigre_esq, 44.34).
+c(abrir_dir, b76_tigre_dir, 6.17).
+c(abrir_dir, b76_tigre_esq, 6.17).
+c(abrir_dir, b77_tigre_dir, 46.43).
+c(abrir_dir, b77_tigre_esq, 46.43).
+c(abrir_dir, b78_tigre_dir, 6.83).
+c(abrir_dir, b78_tigre_esq, 6.83).
+c(abrir_dir, b79_tigre_dir, 45.66).
+c(abrir_dir, b79_tigre_esq, 45.66).
+c(abrir_dir, b7_tigre_dir, 96.7).
+c(abrir_dir, b7_tigre_esq, 96.7).
+c(abrir_dir, b80_tigre_dir, 83.83).
+c(abrir_dir, b80_tigre_esq, 83.83).
+c(abrir_dir, b8_tigre_dir, 99.45).
+c(abrir_dir, b8_tigre_esq, 99.45).
+c(abrir_dir, b9_tigre_dir, 99.89).
+c(abrir_dir, b9_tigre_esq, 99.89).
+c(abrir_esq, b0_tigre_dir, 45.0).
+c(abrir_esq, b0_tigre_esq, 45.0).
+c(abrir_esq, b10_tigre_dir, -10).
+c(abrir_esq, b10_tigre_esq, -10).
+c(abrir_esq, b11_tigre_dir, 83.61).
+c(abrir_esq, b11_tigre_esq, 83.61).
+c(abrir_esq, b12_tigre_dir, 45.22).
+c(abrir_esq, b12_tigre_esq, 45.22).
+c(abrir_esq, b13_tigre_dir, 6.61).
+c(abrir_esq, b13_tigre_esq, 6.61).
+c(abrir_esq, b14_tigre_dir, 96.92).
+c(abrir_esq, b14_tigre_esq, 96.92).
+c(abrir_esq, b15_tigre_dir, 84.6).
+c(abrir_esq, b15_tigre_esq, 84.6).
+c(abrir_esq, b16_tigre_dir, 47.2).
+c(abrir_esq, b16_tigre_esq, 47.2).
+c(abrir_esq, b17_tigre_dir, 7.6).
+c(abrir_esq, b17_tigre_esq, 7.6).
+c(abrir_esq, b18_tigre_dir, -6.37).
+c(abrir_esq, b18_tigre_esq, -6.37).
+c(abrir_esq, b19_tigre_dir, -9.34).
+c(abrir_esq, b19_tigre_esq, -9.34).
+c(abrir_esq, b1_tigre_dir, 83.5).
+c(abrir_esq, b1_tigre_esq, 83.5).
+c(abrir_esq, b20_tigre_dir, 99.34).
+c(abrir_esq, b20_tigre_esq, 99.34).
+c(abrir_esq, b21_tigre_dir, 96.37).
+c(abrir_esq, b21_tigre_esq, 96.37).
+c(abrir_esq, b22_tigre_dir, 82.18).
+c(abrir_esq, b22_tigre_esq, 82.18).
+c(abrir_esq, b23_tigre_dir, 42.47).
+c(abrir_esq, b23_tigre_esq, 42.47).
+c(abrir_esq, b24_tigre_dir, 5.29).
+c(abrir_esq, b24_tigre_esq, 5.29).
+c(abrir_esq, b25_tigre_dir, -6.92).
+c(abrir_esq, b25_tigre_esq, -6.92).
+c(abrir_esq, b26_tigre_dir, 6.39).
+c(abrir_esq, b26_tigre_esq, 6.39).
+c(abrir_esq, b27_tigre_dir, 44.78).
+c(abrir_esq, b27_tigre_esq, 44.78).
+c(abrir_esq, b28_tigre_dir, 83.39).
+c(abrir_esq, b28_tigre_esq, 83.39).
+c(abrir_esq, b29_tigre_dir, 5.4).
+c(abrir_esq, b29_tigre_esq, 5.4).
+c(abrir_esq, b2_tigre_dir, 96.7).
+c(abrir_esq, b2_tigre_esq, 96.7).
+c(abrir_esq, b30_tigre_dir, 42.8).
+c(abrir_esq, b30_tigre_esq, 42.8).
+c(abrir_esq, b31_tigre_dir, 82.4).
+c(abrir_esq, b31_tigre_esq, 82.4).
+c(abrir_esq, b32_tigre_dir, 7.82).
+c(abrir_esq, b32_tigre_esq, 7.82).
+c(abrir_esq, b33_tigre_dir, 47.53).
+c(abrir_esq, b33_tigre_esq, 47.53).
+c(abrir_esq, b34_tigre_dir, 84.71).
+c(abrir_esq, b34_tigre_esq, 84.71).
+c(abrir_esq, b35_tigre_dir, 47.09).
+c(abrir_esq, b35_tigre_esq, 47.09).
+c(abrir_esq, b36_tigre_dir, 84.49).
+c(abrir_esq, b36_tigre_esq, 84.49).
+c(abrir_esq, b37_tigre_dir, 42.58).
+c(abrir_esq, b37_tigre_esq, 42.58).
+c(abrir_esq, b38_tigre_dir, 42.91).
+c(abrir_esq, b38_tigre_esq, 42.91).
+c(abrir_esq, b39_tigre_dir, 5.51).
+c(abrir_esq, b39_tigre_esq, 5.51).
+c(abrir_esq, b3_tigre_dir, 99.45).
+c(abrir_esq, b3_tigre_esq, 99.45).
+c(abrir_esq, b40_tigre_dir, 47.42).
+c(abrir_esq, b40_tigre_esq, 47.42).
+c(abrir_esq, b41_tigre_dir, 46.98).
+c(abrir_esq, b41_tigre_esq, 46.98).
+c(abrir_esq, b42_tigre_dir, 7.49).
+c(abrir_esq, b42_tigre_esq, 7.49).
+c(abrir_esq, b43_tigre_dir, -6.48).
+c(abrir_esq, b43_tigre_esq, -6.48).
+c(abrir_esq, b44_tigre_dir, 43.02).
+c(abrir_esq, b44_tigre_esq, 43.02).
+c(abrir_esq, b45_tigre_dir, 82.51).
+c(abrir_esq, b45_tigre_esq, 82.51).
+c(abrir_esq, b46_tigre_dir, 96.48).
+c(abrir_esq, b46_tigre_esq, 96.48).
+c(abrir_esq, b47_tigre_dir, 46.87).
+c(abrir_esq, b47_tigre_esq, 46.87).
+c(abrir_esq, b48_tigre_dir, 84.38).
+c(abrir_esq, b48_tigre_esq, 84.38).
+c(abrir_esq, b49_tigre_dir, 7.38).
+c(abrir_esq, b49_tigre_esq, 7.38).
+c(abrir_esq, b4_tigre_dir, 99.89).
+c(abrir_esq, b4_tigre_esq, 99.89).
+c(abrir_esq, b50_tigre_dir, 46.65).
+c(abrir_esq, b50_tigre_esq, 46.65).
+c(abrir_esq, b51_tigre_dir, 84.27).
+c(abrir_esq, b51_tigre_esq, 84.27).
+c(abrir_esq, b52_tigre_dir, 96.81).
+c(abrir_esq, b52_tigre_esq, 96.81).
+c(abrir_esq, b53_tigre_dir, 43.13).
+c(abrir_esq, b53_tigre_esq, 43.13).
+c(abrir_esq, b54_tigre_dir, 5.62).
+c(abrir_esq, b54_tigre_esq, 5.62).
+c(abrir_esq, b55_tigre_dir, 82.62).
+c(abrir_esq, b55_tigre_esq, 82.62).
+c(abrir_esq, b56_tigre_dir, 43.35).
+c(abrir_esq, b56_tigre_esq, 43.35).
+c(abrir_esq, b57_tigre_dir, 5.73).
+c(abrir_esq, b57_tigre_esq, 5.73).
+c(abrir_esq, b58_tigre_dir, -6.81).
+c(abrir_esq, b58_tigre_esq, -6.81).
+c(abrir_esq, b59_tigre_dir, 46.76).
+c(abrir_esq, b59_tigre_esq, 46.76).
+c(abrir_esq, b5_tigre_dir, 100).
+c(abrir_esq, b5_tigre_esq, 100).
+c(abrir_esq, b60_tigre_dir, 46.54).
+c(abrir_esq, b60_tigre_esq, 46.54).
+c(abrir_esq, b61_tigre_dir, 7.27).
+c(abrir_esq, b61_tigre_esq, 7.27).
+c(abrir_esq, b62_tigre_dir, 84.05).
+c(abrir_esq, b62_tigre_esq, 84.05).
+c(abrir_esq, b63_tigre_dir, 46.1).
+c(abrir_esq, b63_tigre_esq, 46.1).
+c(abrir_esq, b64_tigre_dir, 7.05).
+c(abrir_esq, b64_tigre_esq, 7.05).
+c(abrir_esq, b65_tigre_dir, -6.59).
+c(abrir_esq, b65_tigre_esq, -6.59).
+c(abrir_esq, b66_tigre_dir, 43.24).
+c(abrir_esq, b66_tigre_esq, 43.24).
+c(abrir_esq, b67_tigre_dir, 43.46).
+c(abrir_esq, b67_tigre_esq, 43.46).
+c(abrir_esq, b68_tigre_dir, 82.73).
+c(abrir_esq, b68_tigre_esq, 82.73).
+c(abrir_esq, b69_tigre_dir, 5.95).
+c(abrir_esq, b69_tigre_esq, 5.95).
+c(abrir_esq, b6_tigre_dir, 6.5).
+c(abrir_esq, b6_tigre_esq, 6.5).
+c(abrir_esq, b70_tigre_dir, 43.9).
+c(abrir_esq, b70_tigre_esq, 43.9).
+c(abrir_esq, b71_tigre_dir, 82.95).
+c(abrir_esq, b71_tigre_esq, 82.95).
+c(abrir_esq, b72_tigre_dir, 96.59).
+c(abrir_esq, b72_tigre_esq, 96.59).
+c(abrir_esq, b73_tigre_dir, 46.43).
+c(abrir_esq, b73_tigre_esq, 46.43).
+c(abrir_esq, b74_tigre_dir, 6.83).
+c(abrir_esq, b74_tigre_esq, 6.83).
+c(abrir_esq, b75_tigre_dir, 45.66).
+c(abrir_esq, b75_tigre_esq, 45.66).
+c(abrir_esq, b76_tigre_dir, 83.83).
+c(abrir_esq, b76_tigre_esq, 83.83).
+c(abrir_esq, b77_tigre_dir, 43.57).
+c(abrir_esq, b77_tigre_esq, 43.57).
+c(abrir_esq, b78_tigre_dir, 83.17).
+c(abrir_esq, b78_tigre_esq, 83.17).
+c(abrir_esq, b79_tigre_dir, 44.34).
+c(abrir_esq, b79_tigre_esq, 44.34).
+c(abrir_esq, b7_tigre_dir, -6.7).
+c(abrir_esq, b7_tigre_esq, -6.7).
+c(abrir_esq, b80_tigre_dir, 6.17).
+c(abrir_esq, b80_tigre_esq, 6.17).
+c(abrir_esq, b8_tigre_dir, -9.45).
+c(abrir_esq, b8_tigre_esq, -9.45).
+c(abrir_esq, b9_tigre_dir, -9.89).
+c(abrir_esq, b9_tigre_esq, -9.89).
+c(ouvir, b0_tigre_dir, 1.0).
+c(ouvir, b0_tigre_esq, 1.0).
+c(ouvir, b10_tigre_dir, 1).
+c(ouvir, b10_tigre_esq, 1).
+c(ouvir, b11_tigre_dir, 1.0).
+c(ouvir, b11_tigre_esq, 1.0).
+c(ouvir, b12_tigre_dir, 1.0).
+c(ouvir, b12_tigre_esq, 1.0).
+c(ouvir, b13_tigre_dir, 1.0).
+c(ouvir, b13_tigre_esq, 1.0).
+c(ouvir, b14_tigre_dir, 1.0).
+c(ouvir, b14_tigre_esq, 1.0).
+c(ouvir, b15_tigre_dir, 1.0).
+c(ouvir, b15_tigre_esq, 1.0).
+c(ouvir, b16_tigre_dir, 1.0).
+c(ouvir, b16_tigre_esq, 1.0).
+c(ouvir, b17_tigre_dir, 1.0).
+c(ouvir, b17_tigre_esq, 1.0).
+c(ouvir, b18_tigre_dir, 1.0).
+c(ouvir, b18_tigre_esq, 1.0).
+c(ouvir, b19_tigre_dir, 1.0).
+c(ouvir, b19_tigre_esq, 1.0).
+c(ouvir, b1_tigre_dir, 1.0).
+c(ouvir, b1_tigre_esq, 1.0).
+c(ouvir, b20_tigre_dir, 1.0).
+c(ouvir, b20_tigre_esq, 1.0).
+c(ouvir, b21_tigre_dir, 1.0).
+c(ouvir, b21_tigre_esq, 1.0).
+c(ouvir, b22_tigre_dir, 1.0).
+c(ouvir, b22_tigre_esq, 1.0).
+c(ouvir, b23_tigre_dir, 1.0).
+c(ouvir, b23_tigre_esq, 1.0).
+c(ouvir, b24_tigre_dir, 1.0).
+c(ouvir, b24_tigre_esq, 1.0).
+c(ouvir, b25_tigre_dir, 1.0).
+c(ouvir, b25_tigre_esq, 1.0).
+c(ouvir, b26_tigre_dir, 1.0).
+c(ouvir, b26_tigre_esq, 1.0).
+c(ouvir, b27_tigre_dir, 1.0).
+c(ouvir, b27_tigre_esq, 1.0).
+c(ouvir, b28_tigre_dir, 1.0).
+c(ouvir, b28_tigre_esq, 1.0).
+c(ouvir, b29_tigre_dir, 1.0).
+c(ouvir, b29_tigre_esq, 1.0).
+c(ouvir, b2_tigre_dir, 1.0).
+c(ouvir, b2_tigre_esq, 1.0).
+c(ouvir, b30_tigre_dir, 1.0).
+c(ouvir, b30_tigre_esq, 1.0).
+c(ouvir, b31_tigre_dir, 1.0).
+c(ouvir, b31_tigre_esq, 1.0).
+c(ouvir, b32_tigre_dir, 1.0).
+c(ouvir, b32_tigre_esq, 1.0).
+c(ouvir, b33_tigre_dir, 1.0).
+c(ouvir, b33_tigre_esq, 1.0).
+c(ouvir, b34_tigre_dir, 1.0).
+c(ouvir, b34_tigre_esq, 1.0).
+c(ouvir, b35_tigre_dir, 1.0).
+c(ouvir, b35_tigre_esq, 1.0).
+c(ouvir, b36_tigre_dir, 1.0).
+c(ouvir, b36_tigre_esq, 1.0).
+c(ouvir, b37_tigre_dir, 1.0).
+c(ouvir, b37_tigre_esq, 1.0).
+c(ouvir, b38_tigre_dir, 1.0).
+c(ouvir, b38_tigre_esq, 1.0).
+c(ouvir, b39_tigre_dir, 1.0).
+c(ouvir, b39_tigre_esq, 1.0).
+c(ouvir, b3_tigre_dir, 1.0).
+c(ouvir, b3_tigre_esq, 1.0).
+c(ouvir, b40_tigre_dir, 1.0).
+c(ouvir, b40_tigre_esq, 1.0).
+c(ouvir, b41_tigre_dir, 1.0).
+c(ouvir, b41_tigre_esq, 1.0).
+c(ouvir, b42_tigre_dir, 1.0).
+c(ouvir, b42_tigre_esq, 1.0).
+c(ouvir, b43_tigre_dir, 1.0).
+c(ouvir, b43_tigre_esq, 1.0).
+c(ouvir, b44_tigre_dir, 1.0).
+c(ouvir, b44_tigre_esq, 1.0).
+c(ouvir, b45_tigre_dir, 1.0).
+c(ouvir, b45_tigre_esq, 1.0).
+c(ouvir, b46_tigre_dir, 1.0).
+c(ouvir, b46_tigre_esq, 1.0).
+c(ouvir, b47_tigre_dir, 1.0).
+c(ouvir, b47_tigre_esq, 1.0).
+c(ouvir, b48_tigre_dir, 1.0).
+c(ouvir, b48_tigre_esq, 1.0).
+c(ouvir, b49_tigre_dir, 1.0).
+c(ouvir, b49_tigre_esq, 1.0).
+c(ouvir, b4_tigre_dir, 1.0).
+c(ouvir, b4_tigre_esq, 1.0).
+c(ouvir, b50_tigre_dir, 1.0).
+c(ouvir, b50_tigre_esq, 1.0).
+c(ouvir, b51_tigre_dir, 1.0).
+c(ouvir, b51_tigre_esq, 1.0).
+c(ouvir, b52_tigre_dir, 1.0).
+c(ouvir, b52_tigre_esq, 1.0).
+c(ouvir, b53_tigre_dir, 1.0).
+c(ouvir, b53_tigre_esq, 1.0).
+c(ouvir, b54_tigre_dir, 1.0).
+c(ouvir, b54_tigre_esq, 1.0).
+c(ouvir, b55_tigre_dir, 1.0).
+c(ouvir, b55_tigre_esq, 1.0).
+c(ouvir, b56_tigre_dir, 1.0).
+c(ouvir, b56_tigre_esq, 1.0).
+c(ouvir, b57_tigre_dir, 1.0).
+c(ouvir, b57_tigre_esq, 1.0).
+c(ouvir, b58_tigre_dir, 1.0).
+c(ouvir, b58_tigre_esq, 1.0).
+c(ouvir, b59_tigre_dir, 1.0).
+c(ouvir, b59_tigre_esq, 1.0).
+c(ouvir, b5_tigre_dir, 1).
+c(ouvir, b5_tigre_esq, 1).
+c(ouvir, b60_tigre_dir, 1.0).
+c(ouvir, b60_tigre_esq, 1.0).
+c(ouvir, b61_tigre_dir, 1.0).
+c(ouvir, b61_tigre_esq, 1.0).
+c(ouvir, b62_tigre_dir, 1.0).
+c(ouvir, b62_tigre_esq, 1.0).
+c(ouvir, b63_tigre_dir, 1.0).
+c(ouvir, b63_tigre_esq, 1.0).
+c(ouvir, b64_tigre_dir, 1.0).
+c(ouvir, b64_tigre_esq, 1.0).
+c(ouvir, b65_tigre_dir, 1.0).
+c(ouvir, b65_tigre_esq, 1.0).
+c(ouvir, b66_tigre_dir, 1.0).
+c(ouvir, b66_tigre_esq, 1.0).
+c(ouvir, b67_tigre_dir, 1.0).
+c(ouvir, b67_tigre_esq, 1.0).
+c(ouvir, b68_tigre_dir, 1.0).
+c(ouvir, b68_tigre_esq, 1.0).
+c(ouvir, b69_tigre_dir, 1.0).
+c(ouvir, b69_tigre_esq, 1.0).
+c(ouvir, b6_tigre_dir, 1.0).
+c(ouvir, b6_tigre_esq, 1.0).
+c(ouvir, b70_tigre_dir, 1.0).
+c(ouvir, b70_tigre_esq, 1.0).
+c(ouvir, b71_tigre_dir, 1.0).
+c(ouvir, b71_tigre_esq, 1.0).
+c(ouvir, b72_tigre_dir, 1.0).
+c(ouvir, b72_tigre_esq, 1.0).
+c(ouvir, b73_tigre_dir, 1.0).
+c(ouvir, b73_tigre_esq, 1.0).
+c(ouvir, b74_tigre_dir, 1.0).
+c(ouvir, b74_tigre_esq, 1.0).
+c(ouvir, b75_tigre_dir, 1.0).
+c(ouvir, b75_tigre_esq, 1.0).
+c(ouvir, b76_tigre_dir, 1.0).
+c(ouvir, b76_tigre_esq, 1.0).
+c(ouvir, b77_tigre_dir, 1.0).
+c(ouvir, b77_tigre_esq, 1.0).
+c(ouvir, b78_tigre_dir, 1.0).
+c(ouvir, b78_tigre_esq, 1.0).
+c(ouvir, b79_tigre_dir, 1.0).
+c(ouvir, b79_tigre_esq, 1.0).
+c(ouvir, b7_tigre_dir, 1.0).
+c(ouvir, b7_tigre_esq, 1.0).
+c(ouvir, b80_tigre_dir, 1.0).
+c(ouvir, b80_tigre_esq, 1.0).
+c(ouvir, b8_tigre_dir, 1.0).
+c(ouvir, b8_tigre_esq, 1.0).
+c(ouvir, b9_tigre_dir, 1.0).
+c(ouvir, b9_tigre_esq, 1.0).
+r(b0_tigre_dir, 0).
+r(b0_tigre_esq, 0).
+r(b10_tigre_dir, 0).
+r(b10_tigre_esq, 0).
+r(b11_tigre_dir, 0).
+r(b11_tigre_esq, 0).
+r(b12_tigre_dir, 0).
+r(b12_tigre_esq, 0).
+r(b13_tigre_dir, 0).
+r(b13_tigre_esq, 0).
+r(b14_tigre_dir, 0).
+r(b14_tigre_esq, 0).
+r(b15_tigre_dir, 0).
+r(b15_tigre_esq, 0).
+r(b16_tigre_dir, 0).
+r(b16_tigre_esq, 0).
+r(b17_tigre_dir, 0).
+r(b17_tigre_esq, 0).
+r(b18_tigre_dir, 0).
+r(b18_tigre_esq, 0).
+r(b19_tigre_dir, 0).
+r(b19_tigre_esq, 0).
+r(b1_tigre_dir, 0).
+r(b1_tigre_esq, 0).
+r(b20_tigre_dir, 0).
+r(b20_tigre_esq, 0).
+r(b21_tigre_dir, 0).
+r(b21_tigre_esq, 0).
+r(b22_tigre_dir, 0).
+r(b22_tigre_esq, 0).
+r(b23_tigre_dir, 0).
+r(b23_tigre_esq, 0).
+r(b24_tigre_dir, 0).
+r(b24_tigre_esq, 0).
+r(b25_tigre_dir, 0).
+r(b25_tigre_esq, 0).
+r(b26_tigre_dir, 0).
+r(b26_tigre_esq, 0).
+r(b27_tigre_dir, 0).
+r(b27_tigre_esq, 0).
+r(b28_tigre_dir, 0).
+r(b28_tigre_esq, 0).
+r(b29_tigre_dir, 0).
+r(b29_tigre_esq, 0).
+r(b2_tigre_dir, 0).
+r(b2_tigre_esq, 0).
+r(b30_tigre_dir, 0).
+r(b30_tigre_esq, 0).
+r(b31_tigre_dir, 0).
+r(b31_tigre_esq, 0).
+r(b32_tigre_dir, 0).
+r(b32_tigre_esq, 0).
+r(b33_tigre_dir, 0).
+r(b33_tigre_esq, 0).
+r(b34_tigre_dir, 0).
+r(b34_tigre_esq, 0).
+r(b35_tigre_dir, 0).
+r(b35_tigre_esq, 0).
+r(b36_tigre_dir, 0).
+r(b36_tigre_esq, 0).
+r(b37_tigre_dir, 0).
+r(b37_tigre_esq, 0).
+r(b38_tigre_dir, 0).
+r(b38_tigre_esq, 0).
+r(b39_tigre_dir, 0).
+r(b39_tigre_esq, 0).
+r(b3_tigre_dir, 0).
+r(b3_tigre_esq, 0).
+r(b40_tigre_dir, 0).
+r(b40_tigre_esq, 0).
+r(b41_tigre_dir, 0).
+r(b41_tigre_esq, 0).
+r(b42_tigre_dir, 0).
+r(b42_tigre_esq, 0).
+r(b43_tigre_dir, 0).
+r(b43_tigre_esq, 0).
+r(b44_tigre_dir, 0).
+r(b44_tigre_esq, 0).
+r(b45_tigre_dir, 0).
+r(b45_tigre_esq, 0).
+r(b46_tigre_dir, 0).
+r(b46_tigre_esq, 0).
+r(b47_tigre_dir, 0).
+r(b47_tigre_esq, 0).
+r(b48_tigre_dir, 0).
+r(b48_tigre_esq, 0).
+r(b49_tigre_dir, 0).
+r(b49_tigre_esq, 0).
+r(b4_tigre_dir, 0).
+r(b4_tigre_esq, 0).
+r(b50_tigre_dir, 0).
+r(b50_tigre_esq, 0).
+r(b51_tigre_dir, 0).
+r(b51_tigre_esq, 0).
+r(b52_tigre_dir, 0).
+r(b52_tigre_esq, 0).
+r(b53_tigre_dir, 0).
+r(b53_tigre_esq, 0).
+r(b54_tigre_dir, 0).
+r(b54_tigre_esq, 0).
+r(b55_tigre_dir, 0).
+r(b55_tigre_esq, 0).
+r(b56_tigre_dir, 0).
+r(b56_tigre_esq, 0).
+r(b57_tigre_dir, 0).
+r(b57_tigre_esq, 0).
+r(b58_tigre_dir, 0).
+r(b58_tigre_esq, 0).
+r(b59_tigre_dir, 0).
+r(b59_tigre_esq, 0).
+r(b5_tigre_dir, 0).
+r(b5_tigre_esq, 0).
+r(b60_tigre_dir, 0).
+r(b60_tigre_esq, 0).
+r(b61_tigre_dir, 0).
+r(b61_tigre_esq, 0).
+r(b62_tigre_dir, 0).
+r(b62_tigre_esq, 0).
+r(b63_tigre_dir, 0).
+r(b63_tigre_esq, 0).
+r(b64_tigre_dir, 0).
+r(b64_tigre_esq, 0).
+r(b65_tigre_dir, 0).
+r(b65_tigre_esq, 0).
+r(b66_tigre_dir, 0).
+r(b66_tigre_esq, 0).
+r(b67_tigre_dir, 0).
+r(b67_tigre_esq, 0).
+r(b68_tigre_dir, 0).
+r(b68_tigre_esq, 0).
+r(b69_tigre_dir, 0).
+r(b69_tigre_esq, 0).
+r(b6_tigre_dir, 0).
+r(b6_tigre_esq, 0).
+r(b70_tigre_dir, 0).
+r(b70_tigre_esq, 0).
+r(b71_tigre_dir, 0).
+r(b71_tigre_esq, 0).
+r(b72_tigre_dir, 0).
+r(b72_tigre_esq, 0).
+r(b73_tigre_dir, 0).
+r(b73_tigre_esq, 0).
+r(b74_tigre_dir, 0).
+r(b74_tigre_esq, 0).
+r(b75_tigre_dir, 0).
+r(b75_tigre_esq, 0).
+r(b76_tigre_dir, 0).
+r(b76_tigre_esq, 0).
+r(b77_tigre_dir, 0).
+r(b77_tigre_esq, 0).
+r(b78_tigre_dir, 0).
+r(b78_tigre_esq, 0).
+r(b79_tigre_dir, 0).
+r(b79_tigre_esq, 0).
+r(b7_tigre_dir, 0).
+r(b7_tigre_esq, 0).
+r(b80_tigre_dir, 0).
+r(b80_tigre_esq, 0).
+r(b8_tigre_dir, 0).
+r(b8_tigre_esq, 0).
+r(b9_tigre_dir, 0).
+r(b9_tigre_esq, 0).
+t(abrir_dir, b0_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b0_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b0_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b0_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b10_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b10_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b10_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b10_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b11_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b11_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b11_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b11_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b12_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b12_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b12_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b12_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b13_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b13_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b13_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b13_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b14_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b14_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b14_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b14_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b15_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b15_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b15_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b15_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b16_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b16_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b16_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b16_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b17_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b17_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b17_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b17_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b18_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b18_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b18_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b18_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b19_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b19_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b19_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b19_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b1_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b1_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b1_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b1_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b20_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b20_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b20_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b20_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b21_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b21_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b21_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b21_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b22_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b22_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b22_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b22_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b23_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b23_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b23_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b23_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b24_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b24_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b24_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b24_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b25_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b25_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b25_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b25_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b26_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b26_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b26_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b26_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b27_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b27_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b27_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b27_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b28_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b28_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b28_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b28_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b29_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b29_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b29_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b29_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b2_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b2_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b2_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b2_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b30_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b30_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b30_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b30_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b31_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b31_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b31_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b31_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b32_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b32_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b32_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b32_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b33_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b33_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b33_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b33_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b34_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b34_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b34_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b34_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b35_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b35_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b35_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b35_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b36_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b36_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b36_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b36_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b37_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b37_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b37_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b37_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b38_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b38_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b38_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b38_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b39_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b39_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b39_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b39_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b3_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b3_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b3_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b3_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b40_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b40_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b40_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b40_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b41_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b41_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b41_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b41_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b42_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b42_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b42_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b42_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b43_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b43_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b43_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b43_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b44_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b44_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b44_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b44_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b45_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b45_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b45_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b45_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b46_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b46_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b46_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b46_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b47_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b47_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b47_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b47_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b48_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b48_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b48_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b48_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b49_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b49_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b49_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b49_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b4_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b4_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b4_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b4_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b50_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b50_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b50_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b50_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b51_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b51_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b51_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b51_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b52_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b52_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b52_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b52_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b53_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b53_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b53_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b53_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b54_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b54_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b54_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b54_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b55_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b55_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b55_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b55_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b56_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b56_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b56_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b56_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b57_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b57_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b57_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b57_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b58_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b58_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b58_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b58_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b59_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b59_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b59_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b59_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b5_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b5_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b5_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b5_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b60_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b60_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b60_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b60_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b61_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b61_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b61_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b61_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b62_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b62_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b62_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b62_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b63_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b63_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b63_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b63_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b64_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b64_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b64_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b64_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b65_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b65_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b65_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b65_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b66_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b66_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b66_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b66_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b67_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b67_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b67_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b67_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b68_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b68_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b68_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b68_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b69_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b69_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b69_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b69_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b6_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b6_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b6_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b6_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b70_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b70_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b70_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b70_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b71_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b71_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b71_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b71_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b72_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b72_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b72_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b72_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b73_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b73_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b73_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b73_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b74_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b74_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b74_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b74_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b75_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b75_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b75_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b75_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b76_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b76_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b76_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b76_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b77_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b77_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b77_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b77_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b78_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b78_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b78_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b78_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b79_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b79_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b79_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b79_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b7_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b7_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b7_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b7_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b80_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b80_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b80_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b80_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b8_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b8_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b8_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b8_tigre_esq, b0_tigre_esq, 1).
+t(abrir_dir, b9_tigre_dir, b0_tigre_dir, 1).
+t(abrir_dir, b9_tigre_dir, b0_tigre_esq, 1).
+t(abrir_dir, b9_tigre_esq, b0_tigre_dir, 1).
+t(abrir_dir, b9_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b0_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b0_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b0_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b0_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b10_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b10_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b10_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b10_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b11_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b11_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b11_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b11_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b12_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b12_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b12_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b12_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b13_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b13_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b13_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b13_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b14_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b14_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b14_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b14_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b15_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b15_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b15_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b15_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b16_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b16_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b16_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b16_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b17_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b17_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b17_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b17_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b18_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b18_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b18_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b18_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b19_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b19_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b19_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b19_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b1_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b1_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b1_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b1_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b20_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b20_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b20_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b20_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b21_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b21_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b21_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b21_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b22_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b22_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b22_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b22_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b23_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b23_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b23_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b23_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b24_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b24_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b24_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b24_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b25_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b25_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b25_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b25_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b26_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b26_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b26_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b26_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b27_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b27_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b27_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b27_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b28_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b28_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b28_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b28_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b29_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b29_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b29_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b29_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b2_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b2_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b2_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b2_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b30_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b30_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b30_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b30_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b31_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b31_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b31_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b31_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b32_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b32_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b32_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b32_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b33_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b33_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b33_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b33_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b34_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b34_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b34_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b34_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b35_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b35_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b35_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b35_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b36_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b36_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b36_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b36_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b37_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b37_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b37_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b37_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b38_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b38_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b38_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b38_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b39_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b39_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b39_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b39_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b3_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b3_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b3_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b3_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b40_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b40_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b40_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b40_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b41_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b41_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b41_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b41_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b42_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b42_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b42_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b42_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b43_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b43_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b43_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b43_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b44_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b44_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b44_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b44_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b45_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b45_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b45_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b45_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b46_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b46_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b46_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b46_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b47_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b47_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b47_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b47_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b48_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b48_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b48_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b48_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b49_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b49_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b49_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b49_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b4_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b4_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b4_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b4_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b50_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b50_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b50_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b50_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b51_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b51_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b51_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b51_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b52_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b52_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b52_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b52_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b53_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b53_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b53_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b53_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b54_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b54_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b54_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b54_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b55_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b55_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b55_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b55_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b56_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b56_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b56_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b56_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b57_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b57_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b57_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b57_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b58_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b58_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b58_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b58_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b59_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b59_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b59_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b59_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b5_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b5_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b5_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b5_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b60_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b60_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b60_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b60_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b61_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b61_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b61_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b61_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b62_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b62_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b62_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b62_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b63_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b63_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b63_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b63_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b64_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b64_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b64_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b64_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b65_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b65_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b65_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b65_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b66_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b66_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b66_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b66_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b67_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b67_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b67_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b67_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b68_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b68_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b68_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b68_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b69_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b69_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b69_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b69_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b6_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b6_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b6_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b6_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b70_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b70_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b70_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b70_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b71_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b71_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b71_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b71_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b72_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b72_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b72_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b72_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b73_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b73_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b73_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b73_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b74_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b74_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b74_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b74_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b75_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b75_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b75_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b75_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b76_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b76_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b76_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b76_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b77_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b77_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b77_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b77_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b78_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b78_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b78_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b78_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b79_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b79_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b79_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b79_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b7_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b7_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b7_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b7_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b80_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b80_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b80_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b80_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b8_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b8_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b8_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b8_tigre_esq, b0_tigre_esq, 1).
+t(abrir_esq, b9_tigre_dir, b0_tigre_dir, 1).
+t(abrir_esq, b9_tigre_dir, b0_tigre_esq, 1).
+t(abrir_esq, b9_tigre_esq, b0_tigre_dir, 1).
+t(abrir_esq, b9_tigre_esq, b0_tigre_esq, 1).
+t(ouvir, b0_tigre_dir, b1_tigre_dir, 1).
+t(ouvir, b0_tigre_dir, b1_tigre_esq, 1).
+t(ouvir, b0_tigre_esq, b1_tigre_dir, 1).
+t(ouvir, b0_tigre_esq, b1_tigre_esq, 1).
+t(ouvir, b10_tigre_dir, b10_tigre_dir, 1).
+t(ouvir, b10_tigre_dir, b10_tigre_esq, 1).
+t(ouvir, b10_tigre_esq, b10_tigre_dir, 1).
+t(ouvir, b10_tigre_esq, b10_tigre_esq, 1).
+t(ouvir, b11_tigre_dir, b2_tigre_dir, 1).
+t(ouvir, b11_tigre_dir, b2_tigre_esq, 1).
+t(ouvir, b11_tigre_esq, b2_tigre_dir, 1).
+t(ouvir, b11_tigre_esq, b2_tigre_esq, 1).
+t(ouvir, b12_tigre_dir, b11_tigre_dir, 1).
+t(ouvir, b12_tigre_dir, b11_tigre_esq, 1).
+t(ouvir, b12_tigre_esq, b11_tigre_dir, 1).
+t(ouvir, b12_tigre_esq, b11_tigre_esq, 1).
+t(ouvir, b13_tigre_dir, b12_tigre_dir, 1).
+t(ouvir, b13_tigre_dir, b12_tigre_esq, 1).
+t(ouvir, b13_tigre_esq, b12_tigre_dir, 1).
+t(ouvir, b13_tigre_esq, b12_tigre_esq, 1).
+t(ouvir, b14_tigre_dir, b3_tigre_dir, 1).
+t(ouvir, b14_tigre_dir, b3_tigre_esq, 1).
+t(ouvir, b14_tigre_esq, b3_tigre_dir, 1).
+t(ouvir, b14_tigre_esq, b3_tigre_esq, 1).
+t(ouvir, b15_tigre_dir, b14_tigre_dir, 1).
+t(ouvir, b15_tigre_dir, b14_tigre_esq, 1).
+t(ouvir, b15_tigre_esq, b14_tigre_dir, 1).
+t(ouvir, b15_tigre_esq, b14_tigre_esq, 1).
+t(ouvir, b16_tigre_dir, b15_tigre_dir, 1).
+t(ouvir, b16_tigre_dir, b15_tigre_esq, 1).
+t(ouvir, b16_tigre_esq, b15_tigre_dir, 1).
+t(ouvir, b16_tigre_esq, b15_tigre_esq, 1).
+t(ouvir, b17_tigre_dir, b35_tigre_dir, 1).
+t(ouvir, b17_tigre_dir, b35_tigre_esq, 1).
+t(ouvir, b17_tigre_esq, b35_tigre_dir, 1).
+t(ouvir, b17_tigre_esq, b35_tigre_esq, 1).
+t(ouvir, b18_tigre_dir, b32_tigre_dir, 1).
+t(ouvir, b18_tigre_dir, b32_tigre_esq, 1).
+t(ouvir, b18_tigre_esq, b32_tigre_dir, 1).
+t(ouvir, b18_tigre_esq, b32_tigre_esq, 1).
+t(ouvir, b19_tigre_dir, b18_tigre_dir, 1).
+t(ouvir, b19_tigre_dir, b18_tigre_esq, 1).
+t(ouvir, b19_tigre_esq, b18_tigre_dir, 1).
+t(ouvir, b19_tigre_esq, b18_tigre_esq, 1).
+t(ouvir, b1_tigre_dir, b2_tigre_dir, 1).
+t(ouvir, b1_tigre_dir, b2_tigre_esq, 1).
+t(ouvir, b1_tigre_esq, b2_tigre_dir, 1).
+t(ouvir, b1_tigre_esq, b2_tigre_esq, 1).
+t(ouvir, b20_tigre_dir, b4_tigre_dir, 1).
+t(ouvir, b20_tigre_dir, b4_tigre_esq, 1).
+t(ouvir, b20_tigre_esq, b4_tigre_dir, 1).
+t(ouvir, b20_tigre_esq, b4_tigre_esq, 1).
+t(ouvir, b21_tigre_dir, b20_tigre_dir, 1).
+t(ouvir, b21_tigre_dir, b20_tigre_esq, 1).
+t(ouvir, b21_tigre_esq, b20_tigre_dir, 1).
+t(ouvir, b21_tigre_esq, b20_tigre_esq, 1).
+t(ouvir, b22_tigre_dir, b21_tigre_dir, 1).
+t(ouvir, b22_tigre_dir, b21_tigre_esq, 1).
+t(ouvir, b22_tigre_esq, b21_tigre_dir, 1).
+t(ouvir, b22_tigre_esq, b21_tigre_esq, 1).
+t(ouvir, b23_tigre_dir, b22_tigre_dir, 1).
+t(ouvir, b23_tigre_dir, b22_tigre_esq, 1).
+t(ouvir, b23_tigre_esq, b22_tigre_dir, 1).
+t(ouvir, b23_tigre_esq, b22_tigre_esq, 1).
+t(ouvir, b24_tigre_dir, b37_tigre_dir, 1).
+t(ouvir, b24_tigre_dir, b37_tigre_esq, 1).
+t(ouvir, b24_tigre_esq, b37_tigre_dir, 1).
+t(ouvir, b24_tigre_esq, b37_tigre_esq, 1).
+t(ouvir, b25_tigre_dir, b29_tigre_dir, 1).
+t(ouvir, b25_tigre_dir, b29_tigre_esq, 1).
+t(ouvir, b25_tigre_esq, b29_tigre_dir, 1).
+t(ouvir, b25_tigre_esq, b29_tigre_esq, 1).
+t(ouvir, b26_tigre_dir, b27_tigre_dir, 1).
+t(ouvir, b26_tigre_dir, b27_tigre_esq, 1).
+t(ouvir, b26_tigre_esq, b27_tigre_dir, 1).
+t(ouvir, b26_tigre_esq, b27_tigre_esq, 1).
+t(ouvir, b27_tigre_dir, b28_tigre_dir, 1).
+t(ouvir, b27_tigre_dir, b28_tigre_esq, 1).
+t(ouvir, b27_tigre_esq, b28_tigre_dir, 1).
+t(ouvir, b27_tigre_esq, b28_tigre_esq, 1).
+t(ouvir, b28_tigre_dir, b2_tigre_dir, 1).
+t(ouvir, b28_tigre_dir, b2_tigre_esq, 1).
+t(ouvir, b28_tigre_esq, b2_tigre_dir, 1).
+t(ouvir, b28_tigre_esq, b2_tigre_esq, 1).
+t(ouvir, b29_tigre_dir, b30_tigre_dir, 1).
+t(ouvir, b29_tigre_dir, b30_tigre_esq, 1).
+t(ouvir, b29_tigre_esq, b30_tigre_dir, 1).
+t(ouvir, b29_tigre_esq, b30_tigre_esq, 1).
+t(ouvir, b2_tigre_dir, b3_tigre_dir, 1).
+t(ouvir, b2_tigre_dir, b3_tigre_esq, 1).
+t(ouvir, b2_tigre_esq, b3_tigre_dir, 1).
+t(ouvir, b2_tigre_esq, b3_tigre_esq, 1).
+t(ouvir, b30_tigre_dir, b31_tigre_dir, 1).
+t(ouvir, b30_tigre_dir, b31_tigre_esq, 1).
+t(ouvir, b30_tigre_esq, b31_tigre_dir, 1).
+t(ouvir, b30_tigre_esq, b31_tigre_esq, 1).
+t(ouvir, b31_tigre_dir, b21_tigre_dir, 1).
+t(ouvir, b31_tigre_dir, b21_tigre_esq, 1).
+t(ouvir, b31_tigre_esq, b21_tigre_dir, 1).
+t(ouvir, b31_tigre_esq, b21_tigre_esq, 1).
+t(ouvir, b32_tigre_dir, b33_tigre_dir, 1).
+t(ouvir, b32_tigre_dir, b33_tigre_esq, 1).
+t(ouvir, b32_tigre_esq, b33_tigre_dir, 1).
+t(ouvir, b32_tigre_esq, b33_tigre_esq, 1).
+t(ouvir, b33_tigre_dir, b34_tigre_dir, 1).
+t(ouvir, b33_tigre_dir, b34_tigre_esq, 1).
+t(ouvir, b33_tigre_esq, b34_tigre_dir, 1).
+t(ouvir, b33_tigre_esq, b34_tigre_esq, 1).
+t(ouvir, b34_tigre_dir, b14_tigre_dir, 1).
+t(ouvir, b34_tigre_dir, b14_tigre_esq, 1).
+t(ouvir, b34_tigre_esq, b14_tigre_dir, 1).
+t(ouvir, b34_tigre_esq, b14_tigre_esq, 1).
+t(ouvir, b35_tigre_dir, b36_tigre_dir, 1).
+t(ouvir, b35_tigre_dir, b36_tigre_esq, 1).
+t(ouvir, b35_tigre_esq, b36_tigre_dir, 1).
+t(ouvir, b35_tigre_esq, b36_tigre_esq, 1).
+t(ouvir, b36_tigre_dir, b14_tigre_dir, 1).
+t(ouvir, b36_tigre_dir, b14_tigre_esq, 1).
+t(ouvir, b36_tigre_esq, b14_tigre_dir, 1).
+t(ouvir, b36_tigre_esq, b14_tigre_esq, 1).
+t(ouvir, b37_tigre_dir, b22_tigre_dir, 1).
+t(ouvir, b37_tigre_dir, b22_tigre_esq, 1).
+t(ouvir, b37_tigre_esq, b22_tigre_dir, 1).
+t(ouvir, b37_tigre_esq, b22_tigre_esq, 1).
+t(ouvir, b38_tigre_dir, b31_tigre_dir, 1).
+t(ouvir, b38_tigre_dir, b31_tigre_esq, 1).
+t(ouvir, b38_tigre_esq, b31_tigre_dir, 1).
+t(ouvir, b38_tigre_esq, b31_tigre_esq, 1).
+t(ouvir, b39_tigre_dir, b44_tigre_dir, 1).
+t(ouvir, b39_tigre_dir, b44_tigre_esq, 1).
+t(ouvir, b39_tigre_esq, b44_tigre_dir, 1).
+t(ouvir, b39_tigre_esq, b44_tigre_esq, 1).
+t(ouvir, b3_tigre_dir, b4_tigre_dir, 1).
+t(ouvir, b3_tigre_dir, b4_tigre_esq, 1).
+t(ouvir, b3_tigre_esq, b4_tigre_dir, 1).
+t(ouvir, b3_tigre_esq, b4_tigre_esq, 1).
+t(ouvir, b40_tigre_dir, b34_tigre_dir, 1).
+t(ouvir, b40_tigre_dir, b34_tigre_esq, 1).
+t(ouvir, b40_tigre_esq, b34_tigre_dir, 1).
+t(ouvir, b40_tigre_esq, b34_tigre_esq, 1).
+t(ouvir, b41_tigre_dir, b36_tigre_dir, 1).
+t(ouvir, b41_tigre_dir, b36_tigre_esq, 1).
+t(ouvir, b41_tigre_esq, b36_tigre_dir, 1).
+t(ouvir, b41_tigre_esq, b36_tigre_esq, 1).
+t(ouvir, b42_tigre_dir, b47_tigre_dir, 1).
+t(ouvir, b42_tigre_dir, b47_tigre_esq, 1).
+t(ouvir, b42_tigre_esq, b47_tigre_dir, 1).
+t(ouvir, b42_tigre_esq, b47_tigre_esq, 1).
+t(ouvir, b43_tigre_dir, b49_tigre_dir, 1).
+t(ouvir, b43_tigre_dir, b49_tigre_esq, 1).
+t(ouvir, b43_tigre_esq, b49_tigre_dir, 1).
+t(ouvir, b43_tigre_esq, b49_tigre_esq, 1).
+t(ouvir, b44_tigre_dir, b45_tigre_dir, 1).
+t(ouvir, b44_tigre_dir, b45_tigre_esq, 1).
+t(ouvir, b44_tigre_esq, b45_tigre_dir, 1).
+t(ouvir, b44_tigre_esq, b45_tigre_esq, 1).
+t(ouvir, b45_tigre_dir, b46_tigre_dir, 1).
+t(ouvir, b45_tigre_dir, b46_tigre_esq, 1).
+t(ouvir, b45_tigre_esq, b46_tigre_dir, 1).
+t(ouvir, b45_tigre_esq, b46_tigre_esq, 1).
+t(ouvir, b46_tigre_dir, b20_tigre_dir, 1).
+t(ouvir, b46_tigre_dir, b20_tigre_esq, 1).
+t(ouvir, b46_tigre_esq, b20_tigre_dir, 1).
+t(ouvir, b46_tigre_esq, b20_tigre_esq, 1).
+t(ouvir, b47_tigre_dir, b48_tigre_dir, 1).
+t(ouvir, b47_tigre_dir, b48_tigre_esq, 1).
+t(ouvir, b47_tigre_esq, b48_tigre_dir, 1).
+t(ouvir, b47_tigre_esq, b48_tigre_esq, 1).
+t(ouvir, b48_tigre_dir, b14_tigre_dir, 1).
+t(ouvir, b48_tigre_dir, b14_tigre_esq, 1).
+t(ouvir, b48_tigre_esq, b14_tigre_dir, 1).
+t(ouvir, b48_tigre_esq, b14_tigre_esq, 1).
+t(ouvir, b49_tigre_dir, b50_tigre_dir, 1).
+t(ouvir, b49_tigre_dir, b50_tigre_esq, 1).
+t(ouvir, b49_tigre_esq, b50_tigre_dir, 1).
+t(ouvir, b49_tigre_esq, b50_tigre_esq, 1).
+t(ouvir, b4_tigre_dir, b5_tigre_dir, 1).
+t(ouvir, b4_tigre_dir, b5_tigre_esq, 1).
+t(ouvir, b4_tigre_esq, b5_tigre_dir, 1).
+t(ouvir, b4_tigre_esq, b5_tigre_esq, 1).
+t(ouvir, b50_tigre_dir, b51_tigre_dir, 1).
+t(ouvir, b50_tigre_dir, b51_tigre_esq, 1).
+t(ouvir, b50_tigre_esq, b51_tigre_dir, 1).
+t(ouvir, b50_tigre_esq, b51_tigre_esq, 1).
+t(ouvir, b51_tigre_dir, b52_tigre_dir, 1).
+t(ouvir, b51_tigre_dir, b52_tigre_esq, 1).
+t(ouvir, b51_tigre_esq, b52_tigre_dir, 1).
+t(ouvir, b51_tigre_esq, b52_tigre_esq, 1).
+t(ouvir, b52_tigre_dir, b3_tigre_dir, 1).
+t(ouvir, b52_tigre_dir, b3_tigre_esq, 1).
+t(ouvir, b52_tigre_esq, b3_tigre_dir, 1).
+t(ouvir, b52_tigre_esq, b3_tigre_esq, 1).
+t(ouvir, b53_tigre_dir, b45_tigre_dir, 1).
+t(ouvir, b53_tigre_dir, b45_tigre_esq, 1).
+t(ouvir, b53_tigre_esq, b45_tigre_dir, 1).
+t(ouvir, b53_tigre_esq, b45_tigre_esq, 1).
+t(ouvir, b54_tigre_dir, b66_tigre_dir, 1).
+t(ouvir, b54_tigre_dir, b66_tigre_esq, 1).
+t(ouvir, b54_tigre_esq, b66_tigre_dir, 1).
+t(ouvir, b54_tigre_esq, b66_tigre_esq, 1).
+t(ouvir, b55_tigre_dir, b46_tigre_dir, 1).
+t(ouvir, b55_tigre_dir, b46_tigre_esq, 1).
+t(ouvir, b55_tigre_esq, b46_tigre_dir, 1).
+t(ouvir, b55_tigre_esq, b46_tigre_esq, 1).
+t(ouvir, b56_tigre_dir, b55_tigre_dir, 1).
+t(ouvir, b56_tigre_dir, b55_tigre_esq, 1).
+t(ouvir, b56_tigre_esq, b55_tigre_dir, 1).
+t(ouvir, b56_tigre_esq, b55_tigre_esq, 1).
+t(ouvir, b57_tigre_dir, b67_tigre_dir, 1).
+t(ouvir, b57_tigre_dir, b67_tigre_esq, 1).
+t(ouvir, b57_tigre_esq, b67_tigre_dir, 1).
+t(ouvir, b57_tigre_esq, b67_tigre_esq, 1).
+t(ouvir, b58_tigre_dir, b69_tigre_dir, 1).
+t(ouvir, b58_tigre_dir, b69_tigre_esq, 1).
+t(ouvir, b58_tigre_esq, b69_tigre_dir, 1).
+t(ouvir, b58_tigre_esq, b69_tigre_esq, 1).
+t(ouvir, b59_tigre_dir, b48_tigre_dir, 1).
+t(ouvir, b59_tigre_dir, b48_tigre_esq, 1).
+t(ouvir, b59_tigre_esq, b48_tigre_dir, 1).
+t(ouvir, b59_tigre_esq, b48_tigre_esq, 1).
+t(ouvir, b5_tigre_dir, b5_tigre_dir, 1).
+t(ouvir, b5_tigre_dir, b5_tigre_esq, 1).
+t(ouvir, b5_tigre_esq, b5_tigre_dir, 1).
+t(ouvir, b5_tigre_esq, b5_tigre_esq, 1).
+t(ouvir, b60_tigre_dir, b51_tigre_dir, 1).
+t(ouvir, b60_tigre_dir, b51_tigre_esq, 1).
+t(ouvir, b60_tigre_esq, b51_tigre_dir, 1).
+t(ouvir, b60_tigre_esq, b51_tigre_esq, 1).
+t(ouvir, b61_tigre_dir, b73_tigre_dir, 1).
+t(ouvir, b61_tigre_dir, b73_tigre_esq, 1).
+t(ouvir, b61_tigre_esq, b73_tigre_dir, 1).
+t(ouvir, b61_tigre_esq, b73_tigre_esq, 1).
+t(ouvir, b62_tigre_dir, b52_tigre_dir, 1).
+t(ouvir, b62_tigre_dir, b52_tigre_esq, 1).
+t(ouvir, b62_tigre_esq, b52_tigre_dir, 1).
+t(ouvir, b62_tigre_esq, b52_tigre_esq, 1).
+t(ouvir, b63_tigre_dir, b62_tigre_dir, 1).
+t(ouvir, b63_tigre_dir, b62_tigre_esq, 1).
+t(ouvir, b63_tigre_esq, b62_tigre_dir, 1).
+t(ouvir, b63_tigre_esq, b62_tigre_esq, 1).
+t(ouvir, b64_tigre_dir, b63_tigre_dir, 1).
+t(ouvir, b64_tigre_dir, b63_tigre_esq, 1).
+t(ouvir, b64_tigre_esq, b63_tigre_dir, 1).
+t(ouvir, b64_tigre_esq, b63_tigre_esq, 1).
+t(ouvir, b65_tigre_dir, b74_tigre_dir, 1).
+t(ouvir, b65_tigre_dir, b74_tigre_esq, 1).
+t(ouvir, b65_tigre_esq, b74_tigre_dir, 1).
+t(ouvir, b65_tigre_esq, b74_tigre_esq, 1).
+t(ouvir, b66_tigre_dir, b55_tigre_dir, 1).
+t(ouvir, b66_tigre_dir, b55_tigre_esq, 1).
+t(ouvir, b66_tigre_esq, b55_tigre_dir, 1).
+t(ouvir, b66_tigre_esq, b55_tigre_esq, 1).
+t(ouvir, b67_tigre_dir, b68_tigre_dir, 1).
+t(ouvir, b67_tigre_dir, b68_tigre_esq, 1).
+t(ouvir, b67_tigre_esq, b68_tigre_dir, 1).
+t(ouvir, b67_tigre_esq, b68_tigre_esq, 1).
+t(ouvir, b68_tigre_dir, b46_tigre_dir, 1).
+t(ouvir, b68_tigre_dir, b46_tigre_esq, 1).
+t(ouvir, b68_tigre_esq, b46_tigre_dir, 1).
+t(ouvir, b68_tigre_esq, b46_tigre_esq, 1).
+t(ouvir, b69_tigre_dir, b70_tigre_dir, 1).
+t(ouvir, b69_tigre_dir, b70_tigre_esq, 1).
+t(ouvir, b69_tigre_esq, b70_tigre_dir, 1).
+t(ouvir, b69_tigre_esq, b70_tigre_esq, 1).
+t(ouvir, b6_tigre_dir, b0_tigre_dir, 1).
+t(ouvir, b6_tigre_dir, b0_tigre_esq, 1).
+t(ouvir, b6_tigre_esq, b0_tigre_dir, 1).
+t(ouvir, b6_tigre_esq, b0_tigre_esq, 1).
+t(ouvir, b70_tigre_dir, b71_tigre_dir, 1).
+t(ouvir, b70_tigre_dir, b71_tigre_esq, 1).
+t(ouvir, b70_tigre_esq, b71_tigre_dir, 1).
+t(ouvir, b70_tigre_esq, b71_tigre_esq, 1).
+t(ouvir, b71_tigre_dir, b72_tigre_dir, 1).
+t(ouvir, b71_tigre_dir, b72_tigre_esq, 1).
+t(ouvir, b71_tigre_esq, b72_tigre_dir, 1).
+t(ouvir, b71_tigre_esq, b72_tigre_esq, 1).
+t(ouvir, b72_tigre_dir, b20_tigre_dir, 1).
+t(ouvir, b72_tigre_dir, b20_tigre_esq, 1).
+t(ouvir, b72_tigre_esq, b20_tigre_dir, 1).
+t(ouvir, b72_tigre_esq, b20_tigre_esq, 1).
+t(ouvir, b73_tigre_dir, b51_tigre_dir, 1).
+t(ouvir, b73_tigre_dir, b51_tigre_esq, 1).
+t(ouvir, b73_tigre_esq, b51_tigre_dir, 1).
+t(ouvir, b73_tigre_esq, b51_tigre_esq, 1).
+t(ouvir, b74_tigre_dir, b75_tigre_dir, 1).
+t(ouvir, b74_tigre_dir, b75_tigre_esq, 1).
+t(ouvir, b74_tigre_esq, b75_tigre_dir, 1).
+t(ouvir, b74_tigre_esq, b75_tigre_esq, 1).
+t(ouvir, b75_tigre_dir, b76_tigre_dir, 1).
+t(ouvir, b75_tigre_dir, b76_tigre_esq, 1).
+t(ouvir, b75_tigre_esq, b76_tigre_dir, 1).
+t(ouvir, b75_tigre_esq, b76_tigre_esq, 1).
+t(ouvir, b76_tigre_dir, b2_tigre_dir, 1).
+t(ouvir, b76_tigre_dir, b2_tigre_esq, 1).
+t(ouvir, b76_tigre_esq, b2_tigre_dir, 1).
+t(ouvir, b76_tigre_esq, b2_tigre_esq, 1).
+t(ouvir, b77_tigre_dir, b68_tigre_dir, 1).
+t(ouvir, b77_tigre_dir, b68_tigre_esq, 1).
+t(ouvir, b77_tigre_esq, b68_tigre_dir, 1).
+t(ouvir, b77_tigre_esq, b68_tigre_esq, 1).
+t(ouvir, b78_tigre_dir, b72_tigre_dir, 1).
+t(ouvir, b78_tigre_dir, b72_tigre_esq, 1).
+t(ouvir, b78_tigre_esq, b72_tigre_dir, 1).
+t(ouvir, b78_tigre_esq, b72_tigre_esq, 1).
+t(ouvir, b79_tigre_dir, b78_tigre_dir, 1).
+t(ouvir, b79_tigre_dir, b78_tigre_esq, 1).
+t(ouvir, b79_tigre_esq, b78_tigre_dir, 1).
+t(ouvir, b79_tigre_esq, b78_tigre_esq, 1).
+t(ouvir, b7_tigre_dir, b26_tigre_dir, 1).
+t(ouvir, b7_tigre_dir, b26_tigre_esq, 1).
+t(ouvir, b7_tigre_esq, b26_tigre_dir, 1).
+t(ouvir, b7_tigre_esq, b26_tigre_esq, 1).
+t(ouvir, b80_tigre_dir, b79_tigre_dir, 1).
+t(ouvir, b80_tigre_dir, b79_tigre_esq, 1).
+t(ouvir, b80_tigre_esq, b79_tigre_dir, 1).
+t(ouvir, b80_tigre_esq, b79_tigre_esq, 1).
+t(ouvir, b8_tigre_dir, b25_tigre_dir, 1).
+t(ouvir, b8_tigre_dir, b25_tigre_esq, 1).
+t(ouvir, b8_tigre_esq, b25_tigre_dir, 1).
+t(ouvir, b8_tigre_esq, b25_tigre_esq, 1).
+t(ouvir, b9_tigre_dir, b19_tigre_dir, 1).
+t(ouvir, b9_tigre_dir, b19_tigre_esq, 1).
+t(ouvir, b9_tigre_esq, b19_tigre_dir, 1).
+t(ouvir, b9_tigre_esq, b19_tigre_esq, 1).

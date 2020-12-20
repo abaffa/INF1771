@@ -25,7 +25,7 @@ avo(X,Z) :- progenitor(X,Y), progenitor(Y,Z).
 
 irmao(X,Y) :- progenitor(Z,X), progenitor(Z,Y).
 
-ancestral(X,Z) :- progenitor(X,Z).
+ancestral(X,Z) :- progenitor(X,Z), !.
 ancestral(X,Z) :- progenitor(X,Y), ancestral(Y,Z).
 
 
